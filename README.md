@@ -6,17 +6,16 @@
 import SoftwareDeveloper from 'thompsonemerson';
 
 class Bio extends SoftwareDeveloper {
-  name     = 'Emerson Thompson';
-  title    = 'Software Engineer';
-  company  = 'Pipoca Digital | Remote';
-  location = 'Fortaleza, CE';
+  name     = 'Colombo Santino';
+  title    = 'Web Developer';
+  I have studied at  = 'CoderHouse | Remote';
+  location = 'Santa Fe, ARG';
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'PHP'];
-  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
+  languages  = ['JavaScript', 'HTML', 'CSS'];
+  frameworks = ['SASS', 'React',];
 }
 ```
 
-⭐️ From [thompsonemerson](https://github.com/thompsonemerson)
+
